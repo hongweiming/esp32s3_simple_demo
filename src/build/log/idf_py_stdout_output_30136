@@ -1,0 +1,59 @@
+[0;32mI (228) main_task: Started on CPU0[0m
+[0;32mI (229) main_task: Calling app_main()[0m
+[0;32mI (230) app_main: app_main[0m
+This is esp32s3 chip with 2 CPU core(s), WiFi/BLE, silicon revision 2, 4MB external flash
+Minimum free heap size: 319676 bytes
+[0;32mI (231) app_main: board_init[0m
+[0;32mI (246) console: Command history enabled[0m
+[5n
+This is an example of ESP-IDF console component.
+Type 'help' to get the list of commands.
+Use UP/DOWN arrows to navigate through command history.
+Press TAB when typing command name to auto-complete.
+Ctrl+C will terminate the console environment.
+
+Your terminal application does not support escape sequences.
+Line editing and history features are disabled.
+On Windows, try using Putty instead.
+R&T> I (753) gpio: GPIO[45]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 0| Pulldown: 1| Intr:3 
+[0;32mI (755) gpio: GPIO[46]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 0| Pulldown: 1| Intr:3 [0m
+[0;32mI (756) gpio: GPIO[47]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 0| Pulldown: 1| Intr:3 [0m
+[0;32mI (757) app_main: app_init[0m
+[0;32mI (757) uMenu: menu_thread_init[0m
+[0;32mI (757) oam: Entering sleep for 0.5s, time since boot: 541833 us[0m
+[0;32mI (1757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (1757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (2757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (2757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (3757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (3757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (4757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (4757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (5757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (5757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (6757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (6757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (7757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (7757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (8757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (8757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (9757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (9757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (10757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (10757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (11757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (11757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (12757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (12757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (13757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (13757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (14757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (14757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (15757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (15757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (16757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (16757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (17757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (17757) oam: [oam_tick_process 47] 9, timer_cb.[0m
+[0;32mI (18757) oam: [oam_timer_cb 60] 9,timer_cb.[0m
+[0;32mI (18757) oam: [oam_tick_process 47] 9, timer_cb.[0m

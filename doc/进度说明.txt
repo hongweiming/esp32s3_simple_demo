@@ -1,0 +1,2 @@
+完成console
+完成key touch,  可检测长短按 多连击

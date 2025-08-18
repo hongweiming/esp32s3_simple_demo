@@ -1,0 +1,22 @@
+idf_component_register(SRCS "app/app_main.c"
+                            "app/system/console.c" 
+                            "app/system/console_settings.c"
+                            "app/hci/cmd/cmd_config.c"
+                            "app/hci/cmd/cmd_file.c"
+                            "app/hci/cmd/cmd_ota.c"
+                            "app/hci/cmd/cmd_show.c"
+                            "app/hci/cmd/cmd_user.c"
+                            "app/hci/cmd/cmd_utest.c"
+                            "app/hci/key/hal_key.c"
+                            "app/hci/uMenu/uMenu.c"
+                            "app/oam/oam_thread.c"
+                    
+                       INCLUDE_DIRS ""
+                                    "app/"
+                                    "app/system/inc/"
+                                    "app/hci/cmd/"
+                                    "app/hci/key/"
+                                    "app/hci/uMenu/"
+                                    "app/oam/"
+                                    
+                       )

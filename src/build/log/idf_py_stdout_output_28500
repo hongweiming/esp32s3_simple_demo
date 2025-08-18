@@ -1,0 +1,206 @@
+[0;32mI (228) main_task: Started on CPU0[0m
+[0;32mI (229) main_task: Calling app_main()[0m
+[0;32mI (229) app_main: app_main[0m
+This is esp32s3 chip with 2 CPU core(s), WiFi/BLE, silicon revision 2, 4MB external flash
+Minimum free heap size: 319684 bytes
+[0;32mI (231) app_main: board_init[0m
+[0;32mI (246) console: Command history enabled[0m
+[5n
+This is an example of ESP-IDF console component.
+Type 'help' to get the list of commands.
+Use UP/DOWN arrows to navigate through command history.
+Press TAB when typing command name to auto-complete.
+Ctrl+C will terminate the console environment.
+
+Your terminal application does not support escape sequences.
+Line editing and history features are disabled.
+On Windows, try using Putty instead.
+R&T> I (752) gpio: GPIO[45]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 0| Pulldown: 1| Intr:3 
+[0;32mI (755) gpio: GPIO[46]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 0| Pulldown: 1| Intr:3 [0m
+[0;32mI (756) gpio: GPIO[47]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 0| Pulldown: 1| Intr:3 [0m
+[0;32mI (757) app_main: app_init[0m
+[0;32mI (757) uMenu: menu_thread_init[0m
+index 0 
+keyid 1, keyevt 1 
+keyidevt 10001, keyid 01, keyevt 01.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+keyid 1, keyevt 2 
+keyidevt 10002, keyid 01, keyevt 02.
+index 0 
+keyid 1, keyevt 3 
+keyidevt 10003, keyid 01, keyevt 03.
+
+R&T> 

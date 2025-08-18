@@ -1,0 +1,30 @@
+[0/1] Re-running CMake...
+-- git rev-parse returned 'fatal: detected dubious ownership in repository at 'D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1'
+'D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-3518864444-2283775707-3537847234-9590'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1'
+-- ccache will be used for faster recompilation
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32s3
+-- Project sdkconfig file D:/Hong/projects_esp32/simple_demo/sdkconfig
+Loading defaults file D:/Hong/projects_esp32/simple_demo/sdkconfig.defaults...
+-- Compiler supported targets: xtensa-esp-elf
+-- App "simple_demo" version: 1
+-- Adding linker script D:/Hong/projects_esp32/simple_demo/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script D:/Hong/projects_esp32/simple_demo/build/esp-idf/esp_system/ld/sections.ld.in
+-- Adding linker script D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/esp_rom/esp32s3/ld/esp32s3.rom.ld
+-- Adding linker script D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/esp_rom/esp32s3/ld/esp32s3.rom.api.ld
+-- Adding linker script D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/esp_rom/esp32s3/ld/esp32s3.rom.bt_funcs.ld
+-- Adding linker script D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/esp_rom/esp32s3/ld/esp32s3.rom.libgcc.ld
+-- Adding linker script D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/esp_rom/esp32s3/ld/esp32s3.rom.wdt.ld
+-- Adding linker script D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/esp_rom/esp32s3/ld/esp32s3.rom.version.ld
+-- Adding linker script D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/esp_rom/esp32s3/ld/esp32s3.rom.newlib.ld
+-- Adding linker script D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/soc/esp32s3/ld/esp32s3.peripherals.ld
+-- Configuring incomplete, errors occurred!
+FAILED: build.ninja 
+D:\ESP-IDF\v5.4.1\Espressif\tools\cmake\3.30.2\bin\cmake.exe --regenerate-during-build -SD:\Hong\projects_esp32\simple_demo -BD:\Hong\projects_esp32\simple_demo\build

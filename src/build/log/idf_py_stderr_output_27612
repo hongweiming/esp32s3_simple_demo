@@ -1,0 +1,44 @@
+fatal: detected dubious ownership in repository at 'D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1'
+'D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-3518864444-2283775707-3537847234-9590'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1
+fatal: detected dubious ownership in repository at 'D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1'
+'D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-3518864444-2283775707-3537847234-9590'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1
+fatal: detected dubious ownership in repository at 'D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/openthread/openthread'
+'D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/openthread/openthread/.git' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-3518864444-2283775707-3537847234-9590'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/components/openthread/openthread
+CMake Error at D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/tools/cmake/component.cmake:490 (add_library):
+  Cannot find source file:
+
+    D:/Hong/projects_esp32/simple_demo/main/app/hci/cmd_show.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm
+  .ccm .cxxm .c++m .h .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90
+  .f95 .f03 .hip .ispc
+Call Stack (most recent call first):
+  main/CMakeLists.txt:1 (idf_component_register)
+
+
+CMake Error at D:/ESP-IDF/v5.4.1/Espressif/frameworks/esp-idf-v5.4.1/tools/cmake/component.cmake:490 (add_library):
+  No SOURCES given to target: __idf_main
+Call Stack (most recent call first):
+  main/CMakeLists.txt:1 (idf_component_register)
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
+ninja: error: rebuilding 'build.ninja': subcommand failed

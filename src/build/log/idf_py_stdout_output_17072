@@ -1,0 +1,35 @@
+[0;32mI (230) main_task: Started on CPU0[0m
+[0;32mI (240) main_task: Calling app_main()[0m
+[0;32mI (240) app_main: app_main[0m
+This is esp32s3 chip with 2 CPU core(s), WiFi/BLE, silicon revision 2, Minimum free heap size: 319924 bytes
+[0;32mI (260) app_main: board_init[0m
+[0;32mI (270) console: Command history enabled[0m
+[5n
+This is an example of ESP-IDF console component.
+Type 'help' to get the list of commands.
+Use UP/DOWN arrows to navigate through command history.
+Press TAB when typing command name to auto-complete.
+Ctrl+C will terminate the console environment.
+
+Your terminal application does not support escape sequences.
+Line editing and history features are disabled.
+On Windows, try using Putty instead.
+R&T> I (820) app_main: app_init
+[0;32mI (1850) app_main: app_main[0m
+[0;32mI (2850) app_main: app_main[0m
+[0;32mI (3850) app_main: app_main[0m
+[0;32mI (4850) app_main: app_main[0m
+[0;32mI (5850) app_main: app_main[0m
+
+R&T> I (6850) app_main: app_main
+
+R&T> 
+R&T> 
+R&T> 
+R&T> I (7850) app_main: app_main
+[0;32mI (8850) app_main: app_main[0m
+[0;32mI (9850) app_main: app_main[0m
+[0;32mI (10850) app_main: app_main[0m
+[0;32mI (11850) app_main: app_main[0m
+[0;32mI (12850) app_main: app_main[0m
+[0;32mI (13850) app_main: app_main[0m

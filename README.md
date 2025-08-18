@@ -1,1 +1,0 @@
-# esp32s3_simple_demo

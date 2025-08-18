@@ -1,0 +1,36 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "d:\\ESP-IDF\\v5.4.1\\Espressif\\frameworks\\esp-idf-v5.4.1",
+  "idf.pythonInstallPath": "D:\\ESP-IDF\\v5.4.1\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM15",
+  "idf.toolsPathWin": "D:\\ESP-IDF\\v5.4.1\\Espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "d:\\ESP-IDF\\v5.4.1\\Espressif\\tools\\esp-clang\\esp-18.1.2_20240912\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=d:\\ESP-IDF\\v5.4.1\\Espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+    "--compile-commands-dir=${workspaceFolder}\\build"
+  ],
+  "files.associations": {
+    "console_settings.h": "c",
+    "cmd_wifi.h": "c",
+    "freertos.h": "c",
+    "esp_log.h": "c",
+    "console.h": "c",
+    "task.h": "c",
+    "esp_console.h": "c",
+    "diskio.h": "c",
+    "esp_flash.h": "c",
+    "stdio.h": "c",
+    "gpio.h": "c",
+    "queue.h": "c",
+    "hal_key.h": "c",
+    "esp_newlib.h": "c",
+    "time.h": "c"
+  }
+}
